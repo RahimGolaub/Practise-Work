@@ -1,0 +1,14 @@
+body{
+background-image: url(1.png);
+
+}
+div{
+
+    margin: auto;
+    width: 750px;
+    background-color: white;
+}
+div.header#outsidecontent {
+    background-color: bisque;
+
+}
